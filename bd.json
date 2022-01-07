@@ -1,0 +1,89 @@
+{
+	"Json_Data": [{
+
+		"Active_Ad_network": "ironsource admob facebook",
+
+		"Admob_interstitial": "",
+		"Admob_banner": "",
+		"Admob_native": "",
+
+		"Facebook_interstitial": "",
+		"Facebook_banner": "",
+		"Facebook_native": "",
+		
+		
+	  "IronSource_App_Key": "",
+      "IronSource_interstitial_Placement": "DefaultInterstitial",
+      "IronSource_banner_Placement": "DefaultBanner",
+
+  
+      "Startapp_id": "xxxxxxxxxxxx",
+
+
+      "Interstitial__1": "ironsource",
+      "Interstitial__2": "admob",
+      "Interstitial__3": "facebook",
+	  
+      "Banner__Ad": "admob",
+      "Native__Ad": "facebook",
+	  
+	  
+      "Package__Name": "pess22beta.proevolution.soccerkonami",
+
+	  
+      "App_suspended": "no",
+      "NewApp_package": "",
+      "NewApp_title": "App update!",
+      "NewApp_message": "please update to new version!",
+	  
+	
+		"Json_Checker": "dont_change_this",
+
+
+"1_title": "How do you play bad guys at school game?",
+  "1_icon": "https://i.ibb.co/jz6f8nZ/bb.png",
+  	"1_image": "",
+    "1_text":  "Play in multiplayer or single player mode and complete missions to earn reputation and money to become a 'Bad Guy'. In multiplayer mode, play as teachers or students. Each team must have the highest score at the end of the game",
+    
+    
+    "2_title": "Become a bad student",
+    "2_icon": "https://i.ibb.co/jz6f8nZ/bb.png",
+    "2_image": "",
+    "2_text": "Bad Guys at School is a video game from the Forceight. It simulates life inside a high school. However, unlike similar school simulators, this game will not challenge you to live like a model student. Instead, you will play the bad boy and revolt against the school system. You will complete missions and earn the reputation of the Bad Guy. You can also play as a teacher and maintain order in your school.",
+ 
+    "3_title": "Good or bad, it's your choice",
+    "3_icon": "https://i.ibb.co/jz6f8nZ/bb.png",
+    "3_image": "",
+    "3_text": "Bad Guys at School is a life simulation game that is set at a high school. However, as noted, it will not play out like your usual school simulation. Here, you can play as a student who revolts against the school system with violence and brutality. You can also choose to become a teacher whose mission is to ensure that the order within the school remains.",
+ 
+ 
+    "4_title": "Funny but needs work",
+    "4_icon": "https://i.ibb.co/jz6f8nZ/bb.png",
+     "4_image": "",
+    "4_text": "Overall, Bad Guys at School offers a unique experience. However, as it is, the game looks to be more of an alpha version instead of a full release. It looks to be a sandbox that relies heavily on your friends' RP'ing. It could also use more elements and levels. More, it is super buggy that it makes the already short game disappointing.Overall, Bad Guys at School offers a unique experience. However, as it is, the game looks to be more of an alpha version instead of a full release. It looks to be a sandbox that relies heavily on your friends' RP'ing. It could also use more elements and levels. More, it is super buggy that it makes the already short game disappointing.",
+    
+    
+    "5_title": "Technical Specifications of This Release.",
+    "5_icon": "https://i.ibb.co/jz6f8nZ/bb.png",
+     "5_image": "",
+    "5_text": "Game Version : Initial Release\nInterface Language: English\nAudio Language : English\nGame File Name : Bad_Guys_at_School.iso\nGame Download Size : 2.9 GB\nMD5SUM : b6e8e9de8ac282c1fbb746c307246f6c",
+    
+    "6_title": "System Requirements of Bad Guys at School",
+    "6_icon": "https://i.ibb.co/jz6f8nZ/bb.png",
+    "6_image": "",
+    "6_text": "Before you start Bad Guys at School Free Download make sure your PC meets minimum system requirements.\n\nMinimum:\n\n* Requires a 64-bit processor and operating system\n* OS: Windows 7\n* Processor: Intel Core i3\n* Memory: 4 GB RAM\n* Graphics: NVIDIA GeForce GTX 660\n* Storage: 6 GB available space\n\nRecommended:\n\n* Requires a 64-bit processor and operating system\n\n",
+
+    
+    
+    "7_title": "How To Install Free Download Bad Guys at School",
+      "7_icon": "https://i.ibb.co/jz6f8nZ/bb.png",
+        "7_image": "",
+    "7_text": "1.Download the installer from our website(using the download)\n2.Then run the“.exe“and start to install the game\n3.During the installation, then follow the instructions\n4.The game starts to download and install automatically.\n5.Wait until the installation is complete\n6.Then pop up with the download key, and then activate the game\n7.play it!",
+ 
+    "8_title": "Bad Guys at School Install-Game:",
+    "8_icon": "https://i.ibb.co/jz6f8nZ/bb.png",
+    "8_image": "",
+    "8_text": "In multiplayer mode, play as teachers or students. Each team must have the highest score at the end of the game. Collect items in the map or earn money and buy items in the shop. Each item allows you to complete a specific mission and enhances your progress in the game.\n*Play a set of different game modes to complete the missions and become the ” Baddest Guy ” in the school and set your reigns out all over the cafeteria. In the multiplayer mode, you can play as a team of teachers or students in which the team which scores the highest wins."
+	}]
+
+}
